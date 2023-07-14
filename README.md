@@ -15,7 +15,7 @@ Setup and Installation
 
 Install JDK 1.8 or higher.
 Install MySQL database and create a new database.
-Clone the repository: git clone https://github.com/your/repository.git
+Clone the repository: git clone https://github.com/Shubh12341/HMS.git
 Configure the database connection in the application.properties file.
 Build the application using Maven: mvn clean install
 Run the application: java -jar target/hospital-management.jar
